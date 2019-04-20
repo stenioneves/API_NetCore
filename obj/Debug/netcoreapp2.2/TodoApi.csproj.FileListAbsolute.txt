@@ -1,0 +1,14 @@
+/home/stenio/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/stenio/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/stenio/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/stenio/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/stenio/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/stenio/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb

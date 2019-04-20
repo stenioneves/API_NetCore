@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/stenio/.dotnet/store/|arch|/|tfm|",
+      "/home/stenio/.nuget/packages",
+      "/home/stenio/dotnet-sdk-2.2.203-linux-x64/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
